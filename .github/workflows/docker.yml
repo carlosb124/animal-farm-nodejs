@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: |
             carbuc2/animal-farm-nodejs:latest
-            ghcr.io/carbuc2/animal-farm-nodejs:latest
+            ghcr.io/carlosb124/animal-farm-nodejs:latest
